@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '33183'
     url: http://www.gutenberg.org/2009/agents/33183
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28177#Insects-and-Diseases--13-A-Popular-Account-of-the-Way-in-Which-Insects-may-Spread-or-Cause-so_
 gutenberg_issued: '2009-02-24'
 gutenberg_type: Text
 identifiers:
